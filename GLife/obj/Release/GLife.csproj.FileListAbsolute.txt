@@ -1,0 +1,13 @@
+H:\GLife\GLife\bin\Release\GLife.exe.config
+H:\GLife\GLife\bin\Release\GLife.exe
+H:\GLife\GLife\bin\Release\GLife.pdb
+H:\GLife\GLife\obj\Release\GLife.csproj.CoreCompileInputs.cache
+H:\GLife\GLife\obj\Release\GLife.exe
+H:\GLife\GLife\obj\Release\GLife.pdb
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\bin\Release\GLife.exe.config
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\bin\Release\GLife.exe
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\bin\Release\GLife.pdb
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\obj\Release\GLife.csprojAssemblyReference.cache
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\obj\Release\GLife.csproj.CoreCompileInputs.cache
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\obj\Release\GLife.exe
+C:\Users\Richard Dowdle\Documents\TINFO200\GLife\GLife\obj\Release\GLife.pdb
